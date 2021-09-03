@@ -11,6 +11,7 @@
   - part 1: simple representation and the nearest neighbor <br />
   - part 2: "Bag of words" and the nearest neighbor <br />
   - part 3: "Bag of words" and SVM <br />
+
 You can find the questions and the report in **Report** folder <br />
 You can find results in https://drive.google.com/drive/folders/1XEYVW5-3YZyTscIG_ixJBeiwqF-gfviV?usp=sharing <br />
 Data folder is also https://drive.google.com/drive/folders/1h27lEnpK-TgaBP5pAdDALKrvbB_-0rJd?usp=sharing <br />
