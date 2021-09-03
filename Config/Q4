@@ -1,0 +1,6 @@
+[params]
+k = 1
+size = 16
+norm = L2
+khist = 150
+batchsize = 150
